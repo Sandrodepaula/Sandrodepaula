@@ -12,8 +12,8 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrodepaula)](https://github.com/anuraghazra/github-readme-stats)
 </div> </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### A tecnologia pode transformar a vida de muitas pessoas, eu espero poder contribuir de alguma forma para ajudar nesse processo.🚀
